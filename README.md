@@ -25,7 +25,7 @@ Online Status: User online/offline status indicators.
 
 ```shell
 git clone https://github.com/ElBanna532000/chatty-app
-cd chat-app
+cd chatty-app
 ```
 Now rename env files from .env.example to .env
 ```shell
